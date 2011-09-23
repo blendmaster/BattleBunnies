@@ -16,19 +16,19 @@ So there's some semblance of an interface, but my 16-year-old mind couldn't yet 
 
 The possible maps are:
 
-*Arena
-*Colliseum (yes, l2spell I know)
-*Jungle
-*Testing (empty map that turns off screen redraws, it's kinda trippy)
+* Arena
+* Colliseum (yes, l2spell I know)
+* Jungle
+* Testing (empty map that turns off screen redraws, it's kinda trippy)
 
 The rest of the dialogs should be straightforward.
 
 The controls are:
 
-*Player 1: Arrow Keys
-*Player 2: WASD
-*Player 3: IJKL
-*Player 4: 8456 (on the numpad preferrably)
+* Player 1: Arrow Keys
+* Player 2: WASD
+* Player 3: IJKL
+* Player 4: 8456 (on the numpad preferrably)
 
 Custom maps
 -----------
