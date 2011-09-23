@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=x\ y\ width\ height\ v
+comment0.target=Gore(float,\ float,\ float,\ float,\ Vector)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Gore\r\n
+comment1.params=g
+comment1.target=void\ draw(java.awt.Graphics2D)
+comment2.params=
+comment2.target=float\ getBounciness()
+numComments=3

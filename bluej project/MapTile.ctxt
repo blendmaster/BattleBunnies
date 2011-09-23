@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=type\ xpos\ ypos\ width\ height
+comment0.target=MapTile(char,\ int,\ int,\ float,\ float)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ MapTile\r\n
+comment1.params=g
+comment1.target=void\ draw(java.awt.Graphics2D)
+comment2.params=o
+comment2.target=int\ posRelativeTo(MapObject)
+comment3.params=o\ posRelTo
+comment3.target=void\ deflect(MoveableObject,\ int)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
